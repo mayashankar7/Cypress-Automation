@@ -1,0 +1,1 @@
+Repo contains script for automating different applications like Amazon, flipkart, practice web app orange HRM Live and many other. It also contains script for generating html report (multiple cucumber html reporter). Cucumber has been used as framework and typescript as language. Automation tool is cypress;
