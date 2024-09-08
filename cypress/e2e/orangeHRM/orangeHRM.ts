@@ -1,7 +1,10 @@
 import { Given, When, Then } from "@badeball/cypress-cucumber-preprocessor"
 
 Given('User is at the login page', () => {
-    cy.visit('https://opensource-demo.orangehrmlive.com/')
+
+    cy.fixture("orangeHRMCss.json").then((Object)=>{
+        cy.visit(Object.URL)
+    })
 })
 
 When('User enters username as {string} and password as {string}', (username, password) => {

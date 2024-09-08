@@ -1,4 +1,5 @@
 {
+  "URL": "https://opensource-demo.orangehrmlive.com/",
   "Username": "[name='username']",
   "Password": "[name='password']",
   "LoginButton": ".oxd-button.oxd-button--medium.oxd-button--main.orangehrm-login-button",

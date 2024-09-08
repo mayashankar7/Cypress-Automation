@@ -1,4 +1,4 @@
-Feature: Login
+Feature: Login and Play on OrangeHRM Live
 
   Scenario Outline: Login to Orange CRM Website
 
